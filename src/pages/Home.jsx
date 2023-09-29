@@ -1,25 +1,25 @@
 import {} from 'react';
 /*importando o bootstrap */
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ProgressBar from 'react-bootstrap/ProgressBar';
+// import ProgressBar from 'react-bootstrap/ProgressBar';
 /*importando todas as imagens */
-import Imagem1 from './assets/produto-hero.jpg';
-import Img1 from './assets/cat-img-1.jpg';
-import Img2 from './assets/cat-img-2.jpg';
-import Img3 from './assets/cat-img-3.jpg';
-import Img4 from './assets/cat-img-3.jpg';
-import Produto1 from './assets/product-1.jpg';
-import Produto2 from './assets/product-2.jpg';
-import Produto3 from './assets/product-3.jpg';
-import Produto4 from './assets/product-4.jpg';
-import Produto5 from './assets/product-5.jpg';
-import Produto6 from './assets/product-6.jpg';
-import Produto7 from './assets/product-7.jpg';
-import Produto8 from './assets/product-8.jpg';
-import ProdutoDetail1 from './assets/product-detail-1.jpg';
-import ProdutoDetail2 from './assets/product-detail-2.jpg';
-import ProdutoDetail3 from './assets/product-detail-3.jpg';
-import ProdutoDetail4 from './assets/product-detail-4.jpg';
+import Imagem1 from '../assets/produto-hero.jpg';
+import Img1 from '../assets/cat-img-1.jpg';
+import Img2 from '../assets/cat-img-2.jpg';
+import Img3 from '../assets/cat-img-3.jpg';
+import Img4 from '../assets/cat-img-3.jpg';
+import Produto1 from '../assets/product-1.jpg';
+import Produto2 from '../assets/product-2.jpg';
+import Produto3 from '../assets/product-3.jpg';
+import Produto4 from '../assets/product-4.jpg';
+import Produto5 from '../assets/product-5.jpg';
+import Produto6 from '../assets/product-6.jpg';
+import Produto7 from '../assets/product-7.jpg';
+import Produto8 from '../assets/product-8.jpg';
+import ProdutoDetail1 from '../assets/product-detail-1.jpg';
+import ProdutoDetail2 from '../assets/product-detail-2.jpg';
+import ProdutoDetail3 from '../assets/product-detail-3.jpg';
+import ProdutoDetail4 from '../assets/product-detail-4.jpg';
 
 function Home() {
   return (

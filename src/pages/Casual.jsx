@@ -5,7 +5,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-import "./css/casual.css";
+import "../css/casual.css";
 function Casual() {
   return (
     <>
@@ -26,7 +26,7 @@ function Casual() {
             <Card.Title>Card Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              bulk of the cards content.
             </Card.Text>
             <Button variant="primary">Go somewhere</Button>
           </Card.Body>
@@ -38,7 +38,7 @@ function Casual() {
             <Card.Title>Card Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              bulk of the cards content.
             </Card.Text>
             <Button variant="primary">Go somewhere</Button>
           </Card.Body>
@@ -50,7 +50,7 @@ function Casual() {
             <Card.Title>Card Title</Card.Title>
             <Card.Text>
               Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              bulk of the cards content.
             </Card.Text>
             <Button variant="primary">Go somewhere</Button>
           </Card.Body>
