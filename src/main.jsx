@@ -12,6 +12,7 @@ import Feminino from "./Feminino.jsx";
 import Outlet from "./Outlet.jsx";
 import Carrinho from "./Carrinho.jsx";
 import Login from "./Login.jsx";
+import Register from "./Register.jsx";
 
 /* criando a função createBrowser */
 const router = createBrowserRouter([
@@ -31,6 +32,7 @@ const router = createBrowserRouter([
 			{ path: "/Outlet", element: <Outlet /> },
 			{ path: "/Carrinho", element: <Carrinho /> },
 			{ path: "/Login", element: <Login /> },
+			{ path: "/Register", element: <Register /> },
 		],
 	},
 ]);
