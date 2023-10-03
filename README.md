@@ -1,9 +1,11 @@
-# Foi criado o projeto React + vite
+# FRONTEND-CP05
 
-#pacotes instalados
- npm install react-router-dom
- npm install react-bootstrap
-
- foi utilizado também css modules
- criação de rotas com RouterProvider
- também possui um componente Error
+## TURMA: 1ESPW
+## Integrates:
+NOME | RM
+:-----:|:---:
+Gabriel Machado Belardino|550121
+Ana Beatriz Farah Alvez|97865
+Kaiky Alvaro de Miranda|98118
+Lucas Rodrigues da Silva|98344
+Pedro Henrique Bicas Couto|99534
